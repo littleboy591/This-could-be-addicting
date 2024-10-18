@@ -1,0 +1,1 @@
+i made a game where you have to push an object to a green dot and when it touches it, you get a point! but, you have a time limit 60 second or 1 min and after 1min you get to know how much score you got and the timer restarts automatically.
